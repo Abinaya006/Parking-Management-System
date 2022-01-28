@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1632637188 source:c:\users\abinaya\onedrive\documents\ads\parking\header.c
+
+1632895098 source:c:\users\abinaya\onedrive\documents\ads\parking\login.c
+	"main.h"
+	"login.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1632847920 c:\users\abinaya\onedrive\documents\ads\parking\main.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stddef.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"data.h"
+
+1632849966 c:\users\abinaya\onedrive\documents\ads\parking\data.h
+	"main.h"
+	"sandq.h"
+
+1632847641 c:\users\abinaya\onedrive\documents\ads\parking\sandq.h
+	"main.h"
+
+1632847241 c:\users\abinaya\onedrive\documents\ads\parking\login.h
+	"main.h"
+
+1632847178 source:c:\users\abinaya\onedrive\documents\ads\parking\sandq.c
+	<time.h>
+	"main.h"
+	"sandq.h"
+
+1632896747 source:c:\users\abinaya\onedrive\documents\ads\parking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"sandq.h"
+	"data.h"
+
+1632897143 source:c:\users\abinaya\onedrive\documents\ads\parking\data.c
+	<stdio.h>
+	"main.h"
+	"data.h"
+	"sandq.h"
+
